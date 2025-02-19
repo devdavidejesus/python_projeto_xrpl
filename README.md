@@ -38,7 +38,7 @@ cd python_projeto_xrpl
 ```bash
 python3 -m venv venv
 source venv/bin/activate  # No Linux/Mac
-venv\Scriptsctivate     # No Windows
+venv\Scriptsactivate     # No Windows
 ```
 
 3. **Instale as dependências do projeto:**
