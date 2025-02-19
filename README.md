@@ -81,8 +81,4 @@ LinkedIn: [Davi de Jesus](https://www.linkedin.com/in/davidejesus/)
 
 Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
----
 
-## 🌟 **Agradecimentos**
-
-Agradeço a todos que contribuíram para este projeto e à comunidade do XRP pela ferramenta poderosa que disponibiliza para desenvolvedores. 🚀
